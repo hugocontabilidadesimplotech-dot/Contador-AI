@@ -1,0 +1,8 @@
+{
+  "name": "ContadorAI - Assistente Contábil Inteligente",
+  "description": "Uma plataforma de contabilidade moderna que utiliza a IA do Gemini para automatizar tarefas, desde o processamento de extratos e análise de contratos até a geração de relatórios e assistência virtual.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
